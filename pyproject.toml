@@ -1,0 +1,8 @@
+[project]
+name = "pybind_balltree"
+version = "0.0.1"
+dependencies = ["numpy"]
+
+[build-system]
+requires = ["setuptools>=42", "wheel", "pybind11~=2.6.1"]
+build-backend = "setuptools.build_meta"

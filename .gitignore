@@ -1,0 +1,5 @@
+src/*.so
+build
+.ipynb_*
+.vscode
+src/*.pyd
